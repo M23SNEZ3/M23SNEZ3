@@ -1,17 +1,23 @@
-M23SNEZ3 or M23SNEZHOK, or SNEZHOK, or just Mikhail:)
-.NET/GTK developer
+
+M23SNEZ3, or just Mikhail. Avid developer of various projects, often use .NET and GTK.
+
+Average Fedora Linux enjoyer:)
 
 ## Tech Stack
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp)  
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.net) ![GTK](https://img.shields.io/badge/-GTK-7A1FA2?logo=gnome)
+I know and use this technlogies
 
-## Currently Learning
-- [ASP.NET Core](https://github.com/dotnet/aspnetcore)  
-- [Relm4](https://github.com/Relm4/Relm4) (GTK for Rust)
+![My Skills](https://skillicons.dev/icons?i=dotnet,cs,discord,git,sqlite,gtk,rust,linux&perline=4)
 
-## My projects
-- [OMORI-BOT](https://github.com/M23SNEZ3/OMORI-BOT): Bot for fun on [Remora.Discord](https://github.com/Remora/Remora.Discord)
+### Interesting technologies, that I use in my projects
+- [Remora.Discord](https://github.com/Remora/Remora.Discord) - One of the lesser-known .NET Discord libraries, similar to [ASP.NET](https://github.com/dotnet/aspnetcore)
+- [Relm4](https://github.com/Relm4/Relm4) - Roughly speaking, it's GTK for Rust.
+- [Avalonia](https://github.com/AvaloniaUI/Avalonia) - Cross-platform framework on .NET for apps development
 
-## My Contributions  
-- **Relm4:** [PR #741](https://github.com/Relm4/Relm4/pull/741)
-- **Wine:**  [PR #7725](https://gitlab.winehq.org/wine/wine/-/merge_requests/7725)
+Also I have a one small project on Remora.Discord, and it's my bot, [OMORI-BOT](https://github.com/M23SNEZ3/OMORI-BOT)
+
+---
+
+Very love send PR in some intersting projects.
+
+We'll get to know each other
+  
