@@ -15,7 +15,3 @@ M23SNEZ3 or M23SNEZHOK, or SNEZHOK, or just Mikhail:)
 ## My Contributions  
 - **Relm4:** [PR #741](https://github.com/Relm4/Relm4/pull/741)
 - **Wine:**  [PR #7725](https://gitlab.winehq.org/wine/wine/-/merge_requests/7725)
-
-## Connect with Me  
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/M23NSEZHOK)  
-[![Matrix](https://img.shields.io/badge/-Matrix-000000?logo=matrix)](https://matrix.to/#/@m23snez3:matrix.org)
