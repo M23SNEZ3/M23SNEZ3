@@ -10,7 +10,7 @@ M23SNEZ3 or M23SNEZHOK, or SNEZHOK, or just Mikhail:)
 - [Relm4](https://github.com/Relm4/Relm4) (GTK for Rust)
 
 ## My projects
-- [OMORI-BOT](https://github.com/M23SNEZ3/OMORI-BOT): Bot for fun on Remora.Discord
+- [OMORI-BOT](https://github.com/M23SNEZ3/OMORI-BOT): Bot for fun on [Remora.Discord](https://github.com/Remora/Remora.Discord)
 
 ## My Contributions  
 - **Relm4:** [PR #741](https://github.com/Relm4/Relm4/pull/741)
